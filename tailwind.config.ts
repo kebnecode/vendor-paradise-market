@@ -28,6 +28,16 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				marketplace: {
+					purple: {
+						light: '#9b87f5',
+						DEFAULT: '#7E69AB',
+						dark: '#6E59A5',
+					},
+					accent: '#D6BCFA',
+					gray: '#8E9196',
+					dark: '#1A1F2C',
+				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
